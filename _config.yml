@@ -1,0 +1,23 @@
+name: vohwinkelphoto
+favicon: null
+layout_spectrum: 0.10115262470208108
+typography_spectrum: 0.04372294805943966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9523707141634077
+  lightness: 0.7044085299130529
+  saturation: 0.041362413903698325
+  rhythmicContrast: 0.39084834791719913
+purpose: []
